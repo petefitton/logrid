@@ -1,0 +1,13 @@
+.gm-cell {
+    display: inline-block;
+    color: white;
+    cursor: pointer;
+    border-right: 1px solid black;
+}
+
+.grid-marker-container {
+    -moz-box-shadow: 0 0 10px 0 #484848;
+    -webkit-box-shadow: 0 0 10px 0 #484848;
+    box-shadow: 0 0 10px 0 #484848;
+    width: fit-content;
+}
